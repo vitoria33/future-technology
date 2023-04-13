@@ -2,11 +2,7 @@ body {
     background-color: #9400D3;
         color: white;
     }
-    
-    #banner{
-        width: 100%;
-    }
-    
+
     .principal{
         padding: 30px;
     }
@@ -15,13 +11,6 @@ body {
         padding-right: 80px;
         text-align: center;
         color: black;
-        
-    p{
-        text-align: left;
-    }
-    
-    #missao{
-        font-size: 
     }
     
     .titulo{
@@ -29,22 +18,9 @@ body {
         text-align: right;
     }
     
-    em strong{
-    
-    }
-    
-    .itens {
-        font-size: italic;
-    }
-    
     ul {
         display: inline-block;
         vertical-align: top;
         width: 20%;
         margin-left: 80%;
-    }
-    
-    .imagembeneficios {
-        width: 100%;
-    
     }
