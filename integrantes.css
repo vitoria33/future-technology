@@ -5,19 +5,20 @@ body {
     
     .principal{
         padding: 60px;
+        text-align: center;
     }
     
     .titulo-principal{
         padding-right: 80px;
         text-align: center;
         color: #FF1493;
-
+        
     p{
-        text-align: left;
+       padding-left:
     }
     
     #missao{
-        
+    
     }
     
     .titulo{
@@ -32,11 +33,9 @@ body {
         display: inline-block;
         vertical-align: top;
         width: 20%;
-        margin-left: 200% ;
     }
-
+    
     .imagembeneficios {
         width: 100%;
     
     }
-
