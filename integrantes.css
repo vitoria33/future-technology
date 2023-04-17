@@ -35,8 +35,11 @@ body {
         vertical-align: top;
         width: 20%;
     }
+
+    .integrantes1{
+        width: 50%;
+    }
     
-    .imagembeneficios {
-        width: 100%;
-    
+    .integrantes2{
+        width: 50%;
     }
