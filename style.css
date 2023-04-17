@@ -2,42 +2,43 @@ body {
     background-color: #9400D3;
         color: white;
     }
-    
+
     .principal{
-        padding: 60px;
+        text-align: center;
     }
-    
+
     .titulo-principal{
-        padding-right: 80px;
         text-align: center;
         color: #FF1493;
     }
 
-    p{
-        text-align: left;
+    .notebook{
+        width: 15%;
+        padding-left: 40px;
     }
-    
-    #missao{
-        
+
+    .tablet{
+        width: 25%;
+        padding-left: 500px;
+        margin-top: 7%;
     }
-    
+
     .titulo{
-        text-align: center;
+        padding-right: 130px;
+        text-align: right;
     }
-    
-    em strong{
-    
-    }
+
     
     ul {
         display: inline-block;
         vertical-align: top;
         width: 20%;
-        margin-left: 200% ;
+        margin-left: 80%;
     }
 
-    .imagembeneficios {
-        width: 100%;
+    .logotipo{
+        width: 8%;
+        padding-left: 40px;
+    }
+
     
-    }
-
