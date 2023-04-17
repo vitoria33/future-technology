@@ -13,17 +13,14 @@ body {
         text-align: center;
         color: #FF1493;
     }
-        
+
     p{
-       padding-left:
-    }
-    
-    #missao{
-    
+       color: black;
     }
     
     .titulo{
-        text-align: center;
+        padding-right: 130px;
+        text-align: right;
     }
     
     em strong{
@@ -36,10 +33,18 @@ body {
         width: 20%;
     }
 
+    .tecnologia{
+        width: 80%;
+    }
+ 
     .integrantes1{
-        width: 50%;
+        width: 80%;
     }
     
     .integrantes2{
-        width: 50%;
+        width: 80%;
+    }
+
+    .drone{
+        width: 80%;
     }
