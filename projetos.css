@@ -1,0 +1,42 @@
+body {
+    background-color: #9400D3;
+        color: white;
+    }
+
+    .principal{
+        text-align: center;
+    }
+
+    .titulo-principal{
+        text-align: center;
+        color: #FF1493;
+    }
+
+    .titulo{
+        padding-right: 130px;
+        text-align: right;
+    }
+
+    
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-left: 80%;
+    }
+
+   .projeto1{
+    width: 50%;
+   }
+
+   .projeto2{
+    width: 50%;
+   }
+
+   .projeto3{
+    width: 50%;
+   }
+
+   .projeto4{
+    width: 50%;
+   }
