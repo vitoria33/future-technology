@@ -3,30 +3,23 @@ body {
         color: white;
         margin: 60px;
     }
-
-    .tecnologia{
-        width: 18%;
-        padding-right: 1000px;
-    }
     
     .integrantes2{
         width: 18%;
         padding-left: 950px;
     }
 
-
     .principal{
         padding: 60px;
-        text-align: center;
+        text-align: center
+    }
+
+    .matéria{
+        color: black;
     }
 
     .integrantes1{
         width: 18%;
-    }
-
-    .drone{
-        width: 18%;
-        padding-left: 950px;
     }
     
     .titulo-principal{
@@ -35,17 +28,9 @@ body {
         color: #FF1493;
     }
 
-    p{
-       color: black;
-    }
-    
     .titulo{
         padding-right: 130px;
         text-align: right;
-    }
-    
-    em strong{
-    
     }
     
     ul {
