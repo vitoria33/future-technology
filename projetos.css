@@ -26,17 +26,22 @@ body {
     }
 
    .projeto1{
-    width: 50%;
+    width: 25%;
+    padding-top: 10%;
    }
 
    .projeto2{
-    width: 50%;
+    width: 20%;
+    margin-left: 80%;
+    padding-top: 0%;
    }
 
    .projeto3{
-    width: 50%;
+    width: 20%;
    }
 
    .projeto4{
-    width: 50%;
+    width: 20%;
+    margin-left: 80%;
+    padding-top: 0%;
    }
