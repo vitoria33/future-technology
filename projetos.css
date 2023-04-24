@@ -27,21 +27,20 @@ body {
 
    .projeto1{
     width: 25%;
-    padding-top: 10%;
+    margin-left: 40px;
    }
 
    .projeto2{
     width: 20%;
-    margin-left: 80%;
-    padding-top: 0%;
+    padding-left: 900px;
    }
 
    .projeto3{
     width: 20%;
+    margin-left: 40px;
    }
 
    .projeto4{
     width: 20%;
-    margin-left: 80%;
-    padding-top: 0%;
+    padding-left: 900px;
    }
