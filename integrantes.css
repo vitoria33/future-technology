@@ -9,6 +9,10 @@ body {
         padding-left: 950px;
     }
 
+    .identidade2{
+        padding-left: 980px;
+    }
+
     .principal{
         padding: 60px;
         text-align: center
@@ -20,6 +24,11 @@ body {
 
     .integrantes1{
         width: 18%;
+        padding-left: 20px;
+    }
+
+    .identidade1{
+        padding-left: 40px;
     }
     
     .titulo-principal{
