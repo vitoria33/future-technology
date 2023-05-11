@@ -12,7 +12,7 @@ body {
     }
 
     .proj2{
-        padding-left: 70%;
+        padding-left: 75%;
     }
 
     .proj3{
@@ -20,7 +20,7 @@ body {
     }
 
     .proj4{
-        padding-left: 70%;
+        padding-left: 75%;
     }
     .titulo-principal{
         text-align: center;
@@ -32,12 +32,11 @@ body {
         text-align: right;
     }
 
-    
     ul {
-        display: inline-block;
-        vertical-align: top;
-        width: 20%;
-        margin-left: 80%;
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-left: 80%;
     }
 
    .projeto1{
