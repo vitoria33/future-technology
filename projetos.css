@@ -1,6 +1,7 @@
 body {
     background-color: #9400D3;
         color: white;
+        font-family: 'Inter', sans-serif;
     }
 
     .principal{
@@ -25,6 +26,7 @@ body {
     .titulo-principal{
         text-align: center;
         color: #FF1493;
+        font-family: 'Inter', sans-serif;
     }
 
     .titulo{
@@ -58,5 +60,3 @@ body {
     width: 20%;
     padding-left: 900px;
    }
-
-   
