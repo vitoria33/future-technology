@@ -1,67 +1,68 @@
 body {
-        background-color: #9400D3;
-        color: white;
-        margin: 60px;
-        font-family: 'Inter', sans-serif;
-    }
-    
-    .titulo-principal{
-        padding-right: 80px;
-        text-align: center;
-        color: #FF1493;
-        font-family: 'Inter', sans-serif;
-    }
+    background-color: #9400D3;
+    color: white;
+    margin: 60px;
+    font-family: 'Inter', sans-serif;
+}
 
-    .tecno{
-         width: 18%;
-        padding-left: 20px;
-    }
+.titulo-principal{
+    padding-right: 80px;
+    text-align: center;
+    color: #FF1493;
+    font-family: 'Inter', sans-serif;
+}
 
-    .integrantes2{
-        width: 18%;
-        padding-left: 950px;
-    }
+.tecno{
+     width: 18%;
+    padding-left: 20px;
+}
 
-    .identidade2{
-        padding-left: 980px;
-    }
-    
-    .principal{
-        padding: 60px;
-        text-align: center
-    }
+.integrantes2{
+    width: 18%;
+    padding-left: 950px;
+}
 
-    .matéria{
-        color: black;
-    }
+.identidade2{
+    padding-left: 980px;
+}
 
-    .integrantes1{
-        width: 18%;
-        padding-left: 20px;
-    }
+.principal{
+    padding: 60px;
+    text-align: center
+}
 
-    .identidade1{
-        padding-left: 40px;
-    }
+.matéria{
+    color: black;
+}
 
-    .drone{
-        width: 18%;
-        padding-left: 950px;
-    }   
-    
-    .titulo{
-        padding-left: 1000px;
-        text-align: left;
-        padding-top: 20px;
-    }
+.integrantes1{
+    width: 18%;
+    padding-left: 20px;
+}
 
-    ul {
-        display: inline-block;
-        vertical-align: top;
-        width: 20%;
-    }
+.identidade1{
+    padding-left: 40px;
+}
 
-    .logotipo{
-        width: 8%;
-        padding-left: 40px;
+.drone{
+    width: 18%;
+    padding-left: 950px;
+}   
+
+.titulo{
+    padding-left: 1000px;
+    text-align: left;
+    padding-top: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-left: 80%;
+}
+
+.logotipo{
+    width: 8%;
+    padding-left: 40px;
 }
