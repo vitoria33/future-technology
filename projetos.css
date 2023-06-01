@@ -8,29 +8,37 @@ body {
         text-align: center;
     }
 
-    .proj1{
-        padding-left: 5%;
-    }
-
-    .proj2{
-        padding-left: 73%;
-    }
-
-    .proj3{
-        padding-left: 5%;
-    }
-
-    .proj4{
-        padding-left: 73%;
-    }
     .titulo-principal{
         text-align: center;
         color: #FF1493;
         font-family: 'Inter', sans-serif;
     }
 
+    .projetose{
+        padding-left: 13%;
+    }
+
+    .tecno{
+        width: 14%;
+        padding-left: 75%;
+    }   
+
+     .projeto3{
+      width:  25%;
+      padding-left: 8%; 
+     }
+
+     .projetoso{
+         padding-left: 72%;
+     }
+
+     .projeto2{
+        width:  25%;
+        padding-left: 65%; 
+       }
+
     .titulo{
-        padding-right: 130px;
+        padding-right: 150%;
         text-align: right;
     }
 
@@ -41,28 +49,8 @@ body {
      margin-left: 80%;
     }
 
-   .projeto1{
-    width: 25%;
-    margin-left: 40px;
-   }
-
-   .projeto2{
-    width: 20%;
-    padding-left: 900px;
-   }
-
-   .projeto3{
-    width: 20%;
-    margin-left: 40px;
-   }
-
-   .projeto4{
-    width: 20%;
-    padding-left: 900px;
-   }
-
-   .logotipo{
-    width: 9%;
-    padding-left: 40px
-   }
-        
+    .logotipo{
+        width: 9%;
+        padding-left: 40px;
+    }
+ 
