@@ -12,13 +12,13 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-.integrantes2{
-    width: 18%;
-    padding-left: 950px;
+.conteudo{
+    
 }
 
-.selfie2{
-    padding-left: 1025px;
+.integrante2{
+    width: 18%;
+    padding-left: 950px;
 }
 
 .principal{
@@ -30,13 +30,9 @@ body {
     color: black;
 }
 
-.integrantes1{
+.integrante1{
     width: 18%;
     padding-left: 20px;
-}
-
-.selfie1{
-    padding-left: 95px;
 }
 
 .titulo{
