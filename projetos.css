@@ -29,8 +29,12 @@ body {
         padding-left: 65%; 
        }
 
+    .online{
+        padding-left: 8%;
+    }
+
     .integrante{
-        padding-left: 60%;
+        padding-left: 70%;
     }
 
     .titulo{
