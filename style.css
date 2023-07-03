@@ -1,47 +1,51 @@
 
-        body {
-                background-color: #9400D3;
-                    color: white;
-                    font-family: 'Inter', sans-serif;
-             }
-            
-            .principal{
-                    text-align: center;
-             }
-            
-            .titulo-principal{
-                    text-align: center;
-                    color: #FF1493;
-                    font-family: 'Inter', sans-serif;
-        
-             }
-            
-            .notebook{
-                    width: 15%;
-                    padding-left: 0%;
-            }
-            
-            .tablet{
-                    width: 25%;
-                    padding-left: 35%;
-                    margin-top: 7%;
-            }
-            
-            .titulo{
-                    padding-right: 15%;
-                    text-align: right;
-            }
-            
-                
-            ul {
-                    display: inline-block;
-                    vertical-align: top;
-                    width: 20%;
-                    margin-left: 80%;
-            }
-            
-            .logotipo{
-                    width: 9%;
-                    padding-left: 0%;
-            }
-                
+body {
+    background-color: #9400D3;
+        color: white;
+        font-family: 'Inter', sans-serif;
+ }
+
+.principal{
+        text-align: center;
+ }
+
+.titulo-principal{
+        text-align: center;
+        color: #FF1493;
+        font-family: 'Inter', sans-serif;
+ }
+
+.notebook{
+        width: 18%;
+        padding-left: 70%;
+}
+
+.tablet{
+        width: 25%;
+        padding-left: 5%;
+        margin-top: 7%;
+}
+
+.alunos{
+    width: 30%;
+    padding-left: 60%;
+}
+
+
+.titulo{
+        padding-right: 15%;
+        text-align: right;
+}
+    
+ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-left: 80%;
+}
+
+.logotipo{
+        width: 9%;
+        padding-left: 0%;
+}
+    
