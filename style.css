@@ -20,6 +20,10 @@ body {
         padding-left: 70%;
 }
 
+.conteudo{
+    width: 60%
+}
+
 .tablet{
         width: 25%;
         padding-left: 5%;
