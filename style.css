@@ -1,44 +1,40 @@
 
 body {
-    background-color: #9400D3;
+        background-color: #9400D3;
         color: white;
         font-family: 'Inter', sans-serif;
- }
-
-.principal{
-        text-align: center;
  }
 
 .titulo-principal{
         text-align: center;
         color: #FF1493;
-        font-family: 'Inter', sans-serif;
+          font-family: 'Inter', sans-serif;
  }
 
 .notebook{
-        width: 18%;
+        width: 24%;
         padding-left: 70%;
 }
 
 .conteudo{
-    align-itens: center
+        display: flex;
+        justify-content: center;
+    align-items: center;
 }
 
 .tablet{
-        width: 25%;
-        padding-left: 5%;
+        width: 28%;
         margin-top: 7%;
 }
 
 .alunos{
-    width: 30%;
-    padding-left: 60%;
+    width: 33%;
+    padding-left: 50%;
 }
 
-
 .titulo{
-        padding-right: 15%;
-        text-align: right;
+        padding-left: 83%;
+      
 }
     
 ul {
@@ -50,6 +46,6 @@ ul {
 
 .logotipo{
         width: 9%;
-        padding-left: 0%;
+        padding-left: 2%;
 }
     
