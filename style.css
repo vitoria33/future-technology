@@ -8,32 +8,24 @@ body {
 .titulo-principal{
         text-align: center;
         color: #FF1493;
-          font-family: 'Inter', sans-serif;
+        font-family: 'Inter', sans-serif;
+        margin-top: 5%;
  }
 
 .notebook{
-        width: 24%;
-        padding-left: 70%;
-}
-
-.conteudo{
-        display: flex;
-        justify-content: center;
-    align-items: center;
+        width: 18%;
+        padding-left: 75%;
 }
 
 .tablet{
         width: 28%;
-        margin-top: 7%;
-}
-
-.alunos{
-    width: 33%;
-    padding-left: 50%;
+       padding-left: 7%;
+       margin-top: 12%;
 }
 
 .titulo{
         padding-left: 83%;
+        
       
 }
     
