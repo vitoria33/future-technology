@@ -1,52 +1,36 @@
-body {
-    background-color: #9400D3;
-        color: white;
-        font-family: 'Inter', sans-serif;
-    }
+.principal{
+    text-align: center;
+}
 
-    .principal{
-        text-align: center;
-    }
+.titulo-principal{
+    text-align: center;
+    color: #FF1493;
+    font-family: 'Inter', sans-serif;
+    margin-top: 5%;
+}
 
-    .titulo-principal{
-        text-align: center;
-        color: #FF1493;
-        font-family: 'Inter', sans-serif;
-    }
+.tecno{
+    width: 14%;
+    padding-left: 75%;
+}   
 
-    .tecno{
-        width: 14%;
-        padding-left: 75%;
-    }   
+.conteudo{
+    display: flex;
+}
 
-    .conteudo{
-        display: flex;
-    }
+ .projeto3{
+  width:  60%;
+  padding-left: 5%; 
+  margin-top: 20%;
+ }
 
-     .projeto3{
-      width:  50%;
-      padding-left: 8%; 
-     }
+ .projeto2{
+    width:  60%;
+    padding-left: 10%; 
+    margin-top: 20%;
+   }
 
-     .projeto2{
-        width:  50%;
-        padding-left: 40%; 
-       }
-
-    .titulo{
-        padding-right: 90%;
-        text-align: right;
-    }
-
-    ul {
-     display: inline-block;
-     vertical-align: top;
-     width: 20%;
-     margin-left: 80%;
-    }
-
-    .logotipo{
-        width: 9%;
-        padding-left: 0%;
-    }
- 
+.titulo{
+    padding-right: 90%;
+    text-align: right;
+}
