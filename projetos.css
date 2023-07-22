@@ -1,36 +1,56 @@
-.principal{
-    text-align: center;
-}
+body {
+    background-color: #9400D3;
+        color: white;
+        font-family: 'Inter', sans-serif;
+    }
 
-.titulo-principal{
-    text-align: center;
-    color: #FF1493;
-    font-family: 'Inter', sans-serif;
-    margin-top: 5%;
-}
+    .principal{
+        text-align: center;
+    }
 
-.tecno{
-    width: 14%;
-    padding-left: 75%;
-}   
+    .titulo-principal{
+        text-align: center;
+        color: #FF1493;
+        font-family: 'Inter', sans-serif;
+        margin-top: 5%;
+    }
 
-.conteudo{
-    display: flex;
-}
+    .tecno{
+        width: 14%;
+        padding-left: 75%;
+    }   
 
- .projeto3{
-  width:  60%;
-  padding-left: 5%; 
-  margin-top: 20%;
- }
+    .conteudo{
+        display: flex;
+    }
 
- .projeto2{
-    width:  60%;
-    padding-left: 10%; 
-    margin-top: 20%;
-   }
+     .projeto3{
+      width:  60%;
+      padding-left: 5%; 
+      margin-top: 20%;
+     }
 
-.titulo{
-    padding-right: 90%;
-    text-align: right;
-}
+     .projeto2{
+        width:  60%;
+        padding-left: 10%; 
+        margin-top: 20%;
+       }
+
+    .titulo{
+        padding-right: 90%;
+        text-align: right;
+    }
+
+    ul {
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-left: 80%;
+    }
+
+    .logotipo{
+        width: 9%;
+        padding-left: 0%;
+        margin-top: 15%;
+    }
+ 
