@@ -32,8 +32,13 @@ body {
 
      .projeto2{
         width:  60%;
-        padding-left: 10%; 
+        padding-left: 20%; 
         margin-top: 20%;
+       }
+
+       .construindo{
+        width: 30%;
+        padding-left: 45%;
        }
 
     .titulo{
