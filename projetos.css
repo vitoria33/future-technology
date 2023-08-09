@@ -6,6 +6,8 @@ body {
 
     .inicial{
         display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .principal{
@@ -20,8 +22,8 @@ body {
     }
 
     .titulo{
-        width: 45%;
-        padding-left: 30%;
+        width: 50%;
+        padding-left: 5%;
     }
 
     .notebook{
