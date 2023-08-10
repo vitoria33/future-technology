@@ -1,7 +1,6 @@
 body {
     background-color: #9400D3;
     color: white;
-    margin: 60px;
     font-family: 'Inter', sans-serif;
 }
 
@@ -12,25 +11,68 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-.conteudo{
-    display: flex;
+.inicial{
+   display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.titulo{
+    width: 60%;
+    padding-left: 5%;
+}
+
+.notebook{
+    width: 20%;
+}
+
+.conteudo1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+     
 .integrante1{
     width: 25%;
 }
 
+.figma1{
+    width: 5%;
+    padding-left: 29%;
+}
+
+.github1{
+    width: 5%;
+}
+
+.instagram1{
+    width: 5%;
+}
+     
 .integrante2{
     width: 25%;
-    padding-left: 60%;
 }
+
+.figma2{
+    width: 5%;
+    padding-left: 55%;
+}
+
+.github2{
+    width: 5%;
+}
+
+.instagram2{
+    width: 5%;
+}
+
 
 .principal{
     padding: 50%;
     text-align: center
 }
 
-.titulo{
+.menu{
     padding-left: 80%;
     text-align: left;
     padding-top: 0%;
