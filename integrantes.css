@@ -28,42 +28,46 @@ body {
 
 .conteudo1{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     text-align: center;
 }
      
 .integrante1{
-    width: 25%;
+    width: 65%;
 }
 
 .figma1{
-    width: 5%;
-    padding-left: 29%;
+    width: 10%;
 }
 
 .github1{
-    width: 5%;
+    width: 10%;
 }
 
 .instagram1{
-    width: 5%;
+    width: 10%;
+}
+
+.conteudo2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
 }
      
 .integrante2{
-    width: 25%;
+    width: 65%;
 }
 
 .figma2{
-    width: 5%;
-    padding-left: 55%;
+    width: 10%;
 }
 
 .github2{
-    width: 5%;
+    width: 10%;
 }
 
 .instagram2{
-    width: 5%;
+    width: 10%;
 }
 
 
