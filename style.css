@@ -1,0 +1,63 @@
+
+body {
+    background-color: #9400D3;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.titulo-principal{
+    text-align: center;
+    color: #FF1493;
+    font-family: 'Inter', sans-serif;
+    margin-top: 5%;
+}
+
+.inicial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    width: 60%;
+    padding-left: 5%;
+}
+
+.notebook{
+    width: 20%;
+}
+
+.conteudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tablet{
+    width: 32%;
+    padding-right: 17%;
+   margin-top: 7%;
+}
+
+.texto{
+    width: 32%;
+}
+
+.menu{
+    padding-left: 83%;
+    margin-top: 7%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-left: 80%;
+    margin-right: 20%;
+}
+
+.logotipo{
+    width: 20%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
